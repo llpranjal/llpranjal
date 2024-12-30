@@ -5,5 +5,5 @@
 - 📊 CS and Statistics Major
 - 💻 Full Stack/ ML Developer
 - 🌱 Always learning and exploring new things
-- 💞 Looking to collaborate on AI/ML and Full-Stack projects
+- 💞 Looking to collaborate on AI/ML and Full-Stack Projects
 - 📫 Reach me: kattelpranjal01@gmail.com
